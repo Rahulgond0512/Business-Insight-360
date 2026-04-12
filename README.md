@@ -18,7 +18,7 @@ This made the company realize the importance of data-driven decision-making.
 Earlier, they were using Excel for analysis, but as the company expanded, Excel was no longer enough.
 
 So, they hired a data analytics team to bring transparency into the data and support better business decisions.
-Another major challenge for the company is competition from , which is growing rapidly.
+Another major challenge for the company is competition from Dell, which is growing rapidly.
 
 Dell has a strong data analytics team that analyzes customer demographics, buying patterns, and income levels to improve decision-making.
 To stay competitive, Atliq Hardware also needs to build a strong analytics-driven approach.
