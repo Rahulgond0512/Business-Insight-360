@@ -77,7 +77,7 @@ The dashboard is built using a well-structured Power BI data model with fact and
 
 The model supports accurate KPI calculations, time intelligence analysis, and interactive cross-filtering across all dashboard views.
 
-<img src="./Data%20model.png" width="900"/>
+<img src="Data%20model.png" width="900"/>
 
 ---
 
