@@ -71,6 +71,16 @@ The dashboard is designed to provide insights in the following sequence:
 
 ---
 
+## Data Model
+
+The dashboard is built using a well-structured Power BI data model with fact and dimension tables.
+
+The model supports accurate KPI calculations, time intelligence analysis, and interactive cross-filtering across all dashboard views.
+
+<img src="./data_model.png" width="900"/>
+
+---
+
 ## Dashboard Screenshots
 
 ### Home Page
@@ -92,6 +102,8 @@ The dashboard is designed to provide insights in the following sequence:
 <img src="./Business%20Insight%20360%20Executive%20Page.png" width="900"/>
 
 ---
+## Video Walkthrough
+🎥 Full Dashboard Demo : [watch on Youtube] (https://youtu.be/uw-yfFSQZ2I)
 
 ## Project File
 The complete Business Insight 360 project file (.pbix) is available in this repository for reference and learning purposes.
