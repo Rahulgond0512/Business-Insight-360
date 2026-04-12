@@ -31,11 +31,11 @@ Develop an interactive Power BI dashboard to support data-driven decision-making
 
 The dashboard is designed to provide insights in the following sequence:
 
-- **Finance View** – revenue, profit, gross margin, and financial trends
-- **Sales View** – customer and product sales performance analysis
-- **Marketing View** – market, region, and customer behavior insights
-- **Supply Chain View** – forecast accuracy, inventory, and operational performance
-- **Executive View** – overall business performance and KPI summary
+- **Finance** – revenue, profit, gross margin, and financial trends
+- **Sales** – customer and product sales performance analysis
+- **Marketing** – market, region, and customer behavior insights
+- **Supply Chain** – forecast accuracy, inventory, and operational performance
+- **Executive** – overall business performance and KPI summary
   
 ---
 
@@ -53,11 +53,11 @@ The dashboard is designed to provide insights in the following sequence:
 
 ## Dashboard Views
 - Home Page
-- Finance Dashboard
-- Sales Dashboard
-- Marketing Dashboard
-- Supply Chain Dashboard
-- Executive Dashboard
+- Finance 
+- Sales 
+- Marketing 
+- Supply Chain 
+- Executive 
 
 ---
 
