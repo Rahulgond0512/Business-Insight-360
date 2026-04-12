@@ -42,22 +42,22 @@ The objective of this project is to provide actionable business insights using K
 ## Dashboard Screenshots
 
 ### Home Page
-![Home](Business Insight 360 Home Page.png)
+<img src="(Business Insight 360 Home Page.png)" width="900"/>
 
 ### Finance Dashboard
-![Finance](Business Insight 360 Finance Page.png)
+<img src="(Business Insight 360 Finance Page.png)" width="900"/>
 
 ### Sales Dashboard
-![Sales](Business Insight 360 Sales Page.png)
+<img src="(Business Insight 360 Sales Page.png)" width="900"/>
 
 ### Marketing Dashboard
-![Marketing](Business Insight 360 Marketing Page.png)
+<img src="(Business Insight 360 Marketing Page.png)" width="900"/>
 
 ### Supply Chain Dashboard
-![Supply Chain](Business Insight 360 Supply Chain Page.png)
+<img src="(Business Insight 360 Supply Chain Page.png)" width="900"/>
 
 ### Executive Dashboard
-![Executive](Business Insight 360 Executive Page.png)
+<img src="(Business Insight 360 Executive Page.png)" width="900"/>
 
 ---
 
