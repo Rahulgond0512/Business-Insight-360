@@ -4,6 +4,9 @@
 This is an end-to-end Power BI dashboard project built to analyze business performance across multiple functional areas including Finance, Sales, Marketing, Supply Chain, and Executive reporting.
 
 The objective of this project is to provide actionable business insights using KPI tracking, profitability analysis, customer insights, product performance, and forecast accuracy.
+
+ View the live interactive dashboard here:
+ [Live Report Link](https://www.novypro.com/project/business-insight-360-65)
  
 ---
 
@@ -103,14 +106,8 @@ The model supports accurate KPI calculations, time intelligence analysis, and in
 
 ---
 
-## Live Dashboard
-View the interactive dashboard on NovyPro:
-https://www.novypro.com/project/business-insight-360-65 🚀
-
----
-
 ## Video Walkthrough
-🎥 Full Dashboard Demo : [watch on Youtube] (https://youtu.be/uw-yfFSQZ2I) 🚀
+🎥 Full Dashboard Demo : [watch on Youtube](https://youtu.be/uw-yfFSQZ2I)
 
 ## Project File
 The complete Business Insight 360 project file (.pbix) is available in this repository for reference and learning purposes.
