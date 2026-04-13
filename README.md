@@ -102,6 +102,13 @@ The model supports accurate KPI calculations, time intelligence analysis, and in
 <img src="./Business%20Insight%20360%20Executive%20Page.png" width="900"/>
 
 ---
+
+## Live Dashboard
+View the interactive dashboard on NovyPro:
+https://www.novypro.com/create_project/business-insight-360-65
+
+---
+
 ## Video Walkthrough
 🎥 Full Dashboard Demo : [watch on Youtube] (https://youtu.be/uw-yfFSQZ2I)
 
