@@ -116,7 +116,7 @@ The model supports accurate KPI calculations, time intelligence analysis, and in
 🎥 Full Dashboard Demo : [Watch on YouTube](https://youtu.be/uw-yfFSQZ2I)
 
 ## Project File
-The complete Business Insight 360 project file (.pbix) is available in this repository for reference and learning purposes.
+The complete Business Insights 360 project file (.pbix) is available in this repository for reference and learning purposes.
 It includes :
 - Data model
 - DAX measures
