@@ -1,5 +1,11 @@
 # Business Insight 360 – Power BI Dashboard Project
 
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![DAX](https://img.shields.io/badge/Skill-DAX-blue)
+![Power Query](https://img.shields.io/badge/Skill-Power%20Query-green)
+![Data Modeling](https://img.shields.io/badge/Skill-Data%20Modeling-orange)
+![KPI Dashboard](https://img.shields.io/badge/Type-KPI%20Dashboard-purple)
+
 ## Project Overview
 This is an end-to-end Power BI dashboard project built to analyze business performance across multiple functional areas including Finance, Sales, Marketing, Supply Chain, and Executive reporting.
 
