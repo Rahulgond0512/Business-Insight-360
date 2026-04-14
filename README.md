@@ -1,4 +1,4 @@
-# Business Insight 360 – Power BI Dashboard Project
+# Business Insights 360 – Power BI Dashboard Project
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
 ![DAX](https://img.shields.io/badge/Skill-DAX-blue)
