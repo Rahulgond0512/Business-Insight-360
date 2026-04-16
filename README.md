@@ -100,7 +100,7 @@ The dataset uses both star schema and snown flake schema methods.
 
 ---
 
-Dimension Tables
+## Dimension Tables
 
 "dim_customer"
 
@@ -134,7 +134,7 @@ Contains geography and market hierarchy details.
 
 "dim_product"
 
-Contains product master details.
+Contains product details such as
 
 - Divisions:
   - P & A
@@ -155,9 +155,7 @@ Contains product master details.
 "dim_date"
 
 The dataset did not have a date table, so I created it using DAX in Power BI.
-
 The table was created using the start date and end date from "fact_sales_monthly".
-
 I also created a fiscal year column for time-based business analysis.
 
 ---
