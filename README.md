@@ -80,6 +80,156 @@ The dashboard is designed to provide insights in the following sequence:
 
 ---
 
+Dataset Understanding
+
+Before starting the analysis, it is important to understand what data is available and how it supports business decision-making.
+
+Database Used
+
+- MySQL Database: "gdb041", "gdb056"
+- Additional Source Files: Excel files for Target Sales, Market Share, and Operating Expenses
+
+---
+
+Data Structure
+
+The dataset uses both star schema and snown flake schema methods.
+
+- Dimension Tables: Static descriptive information
+- Fact Tables: Transactional and numerical business data
+
+---
+
+Dimension Tables
+
+"dim_customer"
+
+Contains customer-level static details.
+
+- 82 distinct customers across all markets (updated)
+- 27 distinct markets
+- 2 platforms
+  - Brick & Mortar- Offline retail stores 
+  - E-commerce- Online platforms 
+- 3 channels
+  - Retailer (eg. Croma, Vijay Sales, Amazon, Flipkart)
+  - Direct (eg. AtliQ Exclusive, AtliQ Estore)
+  - Distributor (eg. Neptune)
+
+---
+
+"dim_market"
+
+Contains geography and market hierarchy details.
+
+- 27 markets
+- 7 sub-zones
+- 4 regions
+  - APAC
+  - EU
+  - LATAM
+  - NA / Other
+
+---
+
+"dim_product"
+
+Contains product master details.
+
+- Divisions:
+  - P & A
+  - N & S
+  - PC 
+- Segments:
+  - Peripherals
+  - Accessories
+  - Notebook
+  - Desktop
+  - Networking
+  - Storage
+- 14 categories
+- Multiple variants for the same product
+
+---
+
+"dim_date"
+
+The dataset did not have a date table, so I created it using DAX in Power BI.
+
+The table was created using the start date and end date from "fact_sales_monthly".
+
+I also created a fiscal year column for time-based business analysis.
+
+---
+
+Fact Tables
+
+"fact_forecast_monthly"
+
+Contains customer demand forecast data.
+
+Used for:
+
+- demand planning
+- warehouse optimization
+- customer satisfaction improvement
+
+The table is denormalized for analytical reporting.
+
+Key metric:
+
+- "forecast_quantity"
+
+---
+
+"fact_sales_monthly"
+
+Contains actual sales transaction data.
+
+Key metric:
+
+- "sold_quantity"
+
+This table is used to compare:
+
+- forecast vs actual sales
+- sales trends
+- customer performance
+
+---
+
+Additional Financial Tables ("gdb056")
+
+- "freight_cost"
+- "gross_price"
+- "manufacturing_cost"
+- "pre_invoice_deductions"
+- "post_invoice_deductions"
+
+These tables were used for financial and profitability analysis.
+
+---
+
+Additional Excel Files Used
+
+Along with MySQL database tables, the following Excel files were integrated into the Power BI data model:
+
+- Target Sales
+- Market Share
+- Operating Expenses
+
+These files were connected and related using data modeling relationships in Power BI.
+
+This helped in building a complete business performance view across:
+
+- sales
+- targets
+- expenses
+- market growth
+- profitability
+
+---
+
 ## Data Model
 
 The dashboard is built using a well-structured Power BI data model with fact and dimension tables.
