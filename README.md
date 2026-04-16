@@ -80,7 +80,7 @@ The dashboard is designed to provide insights in the following sequence:
 
 ---
 
-Dataset Understanding
+## Dataset Understanding
 
 Before starting the analysis, it is important to understand what data is available and how it supports business decision-making.
 
