@@ -12,7 +12,7 @@ This is an end-to-end Power BI dashboard project built to analyze business perfo
 The objective of this project is to provide actionable business insights using KPI tracking, profitability analysis, customer insights, product performance, and forecast accuracy.
 
  View the live interactive dashboard here:
- [Live Report Link](https://www.novypro.com/project/business-insights-360-233)
+ [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiMmFkMzkyYzYtNjdlZS00YzllLWFhOGMtOGUwMGY0MTdjZGZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
  
 ---
 
